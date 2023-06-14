@@ -40,6 +40,9 @@ main{
     background-color: rgb(236, 186, 197);
   }
   
+  .greeting{
+    text-align: center;
+  }
   
   .navbar {
     display: flex;
